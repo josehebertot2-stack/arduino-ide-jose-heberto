@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gemini Arduino Web IDE",
+  "description": "A powerful, AI-driven Arduino IDE for the web, featuring code generation, real-time debugging assistance, and Web Serial API integration for hardware communication.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
